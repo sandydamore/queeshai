@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rongahc.shoonyamusic.com/sitemap.xml
